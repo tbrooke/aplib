@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "webpack": "^5.64.1",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "@accordproject/cicero-core": "^0.22.2",
+    "@accordproject/cicero-engine": "^0.22.2",
+    "@accordproject/concerto-core": "^1.2.1"
+  }
+}

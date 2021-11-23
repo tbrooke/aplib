@@ -1,0 +1,12 @@
+Function.prototype.isArray;
+Function.prototype.iterator;
+Function.prototype.fromCharCode;
+Function.prototype.MAX_VALUE;
+var process;
+process.hrtime;
+var Java;
+Java.type;
+Object.out;
+Object.out.println;
+Object.error;
+Object.error.println;

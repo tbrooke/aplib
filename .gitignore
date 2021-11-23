@@ -1,0 +1,7 @@
+/.calva
+/.clj-kondo
+/.cljs_node_repl
+/.cpcache
+/.lsp
+/.portal
+/node_modules

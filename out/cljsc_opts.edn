@@ -1,0 +1,1 @@
+{:browser-repl true, :main aplib.core, :output-to "out/index.js", :output-dir "out", :target :bundle, :closure-defines #:cljs.core{*global* "window"}, :verbose true, :aot-cache true}
