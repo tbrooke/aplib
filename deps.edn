@@ -1,3 +1,3 @@
-{:deps {org.clojure/clojurescript {:mvn/version "1.10.891"}}}
-
-
+{:deps {org.clojure/clojurescript {:mvn/version "1.10.891"}
+        applied-science/js-interop {:mvn/version "0.3.1"}
+        funcool/promesa {:mvn/version "1.8.1"}}}
